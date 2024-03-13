@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BensGitHub2022
-- 👀 I’m interested in ... software development.
-- 🌱 I’m currently learning ... how to use MetaTrader, Coinbase, & Binance APIs to build a trading bot.
-- 💞️ I’m looking to collaborate on ... anything!
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning how to use MetaTrader, Coinbase, & Binance APIs to build a trading bot.
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ... (https://www.linkedin.com/in/feldy-ben/)
 
 <!---
